@@ -1,0 +1,2 @@
+Streamlit = 1.28.2
+Python = 3.8.17
